@@ -9,3 +9,5 @@ Membuat register
 Selesai
 
 Membuat profile
+
+Done
