@@ -3,3 +3,5 @@ membuat dashboard abc
 membuat log in
 
 Selesai
+
+Membuat register
