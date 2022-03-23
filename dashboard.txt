@@ -11,3 +11,5 @@ Selesai
 Membuat profile
 
 Done
+
+membuat landing page
